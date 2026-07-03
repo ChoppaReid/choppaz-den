@@ -1,2 +1,2 @@
 # Choppaz Den Archive
-Recreated restrospectively for memory's sake
+Recreated restrospectively for memory's sake.
