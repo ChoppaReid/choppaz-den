@@ -1,4 +1,4 @@
 git add .
-git commit -m "Add new track Find my own wings (website only)"
+git commit -m "adding robots.txt for site indexing"
 git push origin main
 git status
